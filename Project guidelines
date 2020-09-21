@@ -1,0 +1,52 @@
+ PROJECT GUIDELINES
+
+1.Dataset Selection   ( 5 Marks)
+You are encouraged to select your own dataset.
+The requirements are,
+Dataset must have at least 500 or more observations and between 10 to 15 variables.
+The dataset’s variables should include categorical variables, discrete numerical variables, and continuous numerical variables.
+There should be at least 3 – 5% of missing values and NULL or NA. 
+
+2.Exploratory Data Analysis (7 Marks)
+Once you choose the dataset, do the following steps.
+Describe your dataset. Explain the meaning of the columns that is there in the dataset.  
+Data Cleaning – Handle the missing data for both categorical and numerical variables (by dropping and imputing).
+(Note: The missing values cannot be just ignored or deleted without examining) 
+Remove unwanted observations – Duplicate/irrelevant/repetitive.
+Fix the typos and inconsistent capitalization.
+
+3.Graph Visualization (7 Marks) 
+
+Visualize the dataset to exhibit meaningful insights from it.
+Use any three graph visualization techniques.
+Filter unwanted outliers.
+Numerical – Box plot / Histogram.
+Categorical – Bar chart. 
+
+
+4.Normalization and Standardization (5 Marks)
+
+Compute the mean and variance for each of the columns.
+Normalize all the numeric columns, to make mean 0 and variance 1
+Discuss why is normalization is needed? How does it affect dataset? 
+Use graphs used to check whether the data is normal.
+
+5.Hypothesis Testing (4 Marks)
+
+State the research hypothesis.
+Perform statistical tests.
+Freedom to make your own hypothesis based on the columns.
+Decide whether the null hypothesis is supported or rejected.
+
+6.Correlation (3 Marks)
+
+Find the correlation between variables that are positively and negatively related.
+ State inferences about it.
+
+7.Presentation (5 Marks)
+
+Presentation slides to be prepared.
+Screen shot of a particular part of dataset and related graphs can be put in PPT along with insights.
+
+8.Report (5 Marks)
+   A report of 4 to 5 pages needs to be submitted.
