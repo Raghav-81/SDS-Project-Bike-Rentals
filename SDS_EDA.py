@@ -168,6 +168,11 @@ df
 
 df.isnull().sum()
 
+# In[29]:
+
+
+pd.set_option('precision', 4)
+
 
 # In[30]:
 
@@ -175,7 +180,6 @@ df.isnull().sum()
 df.to_csv(r'./Data_Handling.csv', index = False, header = True)
 
 
-# In[ ]:
 
 
 
