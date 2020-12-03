@@ -5,3 +5,5 @@ Here, please post who is doing what (Name- What you're doing), so that there's n
 Data Handling - RISHAB KASHYAP B S 
 
 Hypothesis Testing - Royston E Tauro
+ 
+EDA and visualisation - Raghav V Pandit
